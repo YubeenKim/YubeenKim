@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🔭 I’m currently working on quantum chemistry algorithms on quantum computing!
+### 🌱 I’m currently learning quantum chemistry, quantum computing
 
 <!--
 **YubeenKim/YubeenKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
